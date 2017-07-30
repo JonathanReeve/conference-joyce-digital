@@ -1,5 +1,9 @@
-Joyce in the Digital Age: a Symposium and Hackathon
-===================================================
+Joyce in the Digital Age
+========================
+
+This repository contains the website and some materials related to the
+upcoming symposium and hackathon, Joyce in the Digital Age, to be held
+at Columbia University on October 1st, 2017.
 
 Conference Details
 ------------------
