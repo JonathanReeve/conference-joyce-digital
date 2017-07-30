@@ -8,12 +8,12 @@ at Columbia University on October 1st, 2017.
 Conference Details
 ------------------
 
-Sunday, October 1st, 2017, 10am-4:30pm Studio@Butler, Butler Library,
-Columbia University Organizer: Jonathan Reeve,
-jonathan.reeve@columbia.edu Sponsors: Columbia University Department of
-English and Comparative Literature; Columbia University Dean of
-Humanities; The Society of Fellows and Heyman Center for the Humanities;
-Butler Library Digital Humanities.
+ - Sunday, October 1st, 2017, 10am-4:30pm 
+ - Studio@Butler, Butler Library, Columbia University 
+ - Organizer: Jonathan Reeve, jonathan.reeve@columbia.edu 
+ - Sponsors: Columbia University Department of English and Comparative Literature; 
+ Columbia University Dean of Humanities; 
+ The Society of Fellows and Heyman Center for the Humanities; Butler Library Digital Humanities.
 
 Introduction
 ------------
