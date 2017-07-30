@@ -19,7 +19,7 @@ The [[https://github.com/JonathanReeve/corpus-joyce-ulysses-tei][Open-Source Cri
 
 *** Links: 
  - [[http://jonreeve.com/presentations/portrait-xml/][A short presentation about the /Portrait/ edition.]]
- - [[http://jonathanreeve.github.io/corpus-joyce-portrait-TEI/][A proof-of-concept web prototype of the /Portrait/ edition, showing a few features of the markup.]]
+ - [[https://joyce-portrait.netlify.com/][A proof-of-concept web prototype of the /Portrait/ edition, showing a few features of the markup.]]
  - [[https://ulysses-tei.netlify.com/][A proof-of-concept web protoype of the /Ulysses/ edition, showing dialogue attribution.]]
 
 *** Proposed schedule: 
