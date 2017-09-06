@@ -92,7 +92,7 @@ unexplored in 20th Century English literary studies.
 -   [A proof-of-concept web protoype of the *Ulysses* edition, showing
     dialogue attribution.](https://ulysses-tei.netlify.com/)
 
-### Proposed schedule:
+### Schedule:
 
 **10am-11:30am**: Presentations from:
 
