@@ -5,11 +5,18 @@ Conference Details
 ------------------
 
  - Sunday, October 1st, 2017, 10am-4:30pm 
- - Studio@Butler, Butler Library, Columbia University 
+ - Studio@Butler, 208B Butler Library, Columbia University 
  - Organizer: Jonathan Reeve, jonathan.reeve@columbia.edu 
  - Sponsors: Columbia University Department of English and Comparative Literature; 
  Columbia University Dean of Humanities; 
  The Society of Fellows and Heyman Center for the Humanities; Butler Library Digital Humanities.
+
+RSVP
+----
+
+You must RSVP for the conference so that we can add your name to the list that
+we give library security. [RSVP using this Google
+Form](https://docs.google.com/forms/d/e/1FAIpQLScaASilcYuCtrPu-8pKfmv9RFcB6AP6374OLtQGZ-lZD17W2A/viewform)
 
 Introduction
 ------------
