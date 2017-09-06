@@ -14,9 +14,7 @@ Conference Details
 RSVP
 ----
 
-You must RSVP for the conference so that we can add your name to the list that
-we give library security. [RSVP using this Google
-Form](https://docs.google.com/forms/d/e/1FAIpQLScaASilcYuCtrPu-8pKfmv9RFcB6AP6374OLtQGZ-lZD17W2A/viewform)
+Attendees, [RSVP using this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScaASilcYuCtrPu-8pKfmv9RFcB6AP6374OLtQGZ-lZD17W2A/viewform) so that we can add your name to the list we give library security. 
 
 Introduction
 ------------
