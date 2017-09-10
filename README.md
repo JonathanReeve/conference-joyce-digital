@@ -13,7 +13,7 @@ Conference Details
  - Organizer: Jonathan Reeve, jonathan.reeve@columbia.edu 
  - Sponsors: Columbia University Department of English and Comparative Literature; 
  Columbia University Dean of Humanities; 
- The Society of Fellows and Heyman Center for the Humanities; Butler Library Digital Humanities.
+ The Society of Fellows and Heyman Center for the Humanities; Columbia University Libraries Digital Scholarship.
 
 Introduction
 ------------
